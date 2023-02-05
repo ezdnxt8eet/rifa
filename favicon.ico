@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="robots" content="noindex,nofollow">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="css/challenges.css" rel="stylesheet">
+    
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="favicon.ico" onerror="this.onerror=null;this.parentNode.removeChild(this)">
+            rifa321.com
+        </h1>
+        <h2 class="h2" id="challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url(&#x27;images/transparent.gif&#x27;)"></div>
+        <div id="challenge-body-text" class="core-msg spacer">
+            rifa321.com needs to review the security of your connection before proceeding.
+        </div>
+        <form id="challenge-form" action="/favicon.ico?__cf_chl_f_tk=Yjwob6iZdrICk8CnaRD9f_pEVAFmM9jxCrt6.DoUHNk-1674801943-0-gaNycGzNCH0" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="oNLBNktvFMAV5FZ.ZavQn.BXuGGpTpA3pZxyMP_vbCk-1674801943-0-AQLR5jbsT4X_lkdpXVsH_OcDS0HF6wzbw9Tu8T0jRQDjHON1cwuhhq2HFYQH1YL_cvMixF74_EiwzFSefV0g9pIRL5aiTOXz0zA5MPie_UVKT3WNhebew-1L2Eem_8zfV4ALwyPeSXHglzPucmEExS0eYyuSavWaeY1qJpehpp-HG_yvruSIdUhZu0HJA2VC2H6bAqBnHtX1ULz_m-ZGZ4IFH1SGJ6ZdQWAccSo_hmPLDBQUvRX8n05jYKaTVuy5dMSwvrP3zWcRZuFB7fi49QbcuPlcqqebqiR1yVhWIvvKtTKXZ8fbMqdIQgRMCs5IpPUJ_y4yyzkcrtLvSNWbYpo6Lvv4GL-br-PI_fj79GOA8ORgNvM3Bnf1r80wh9ifShpZAHPKfwZa2GSKV_Drzk8Zroy-tzZCXNXBa_Nqy5Q1mWQTDFxPXYYYekr9CUfCywVj6gZg6D_K_u6400nfGNV84MQZFJaWgf6M_3oELnXL_XzOTcG4FpDl1nvKXHOj9w">
+            <input type="hidden" name="r" value="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">
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cZone: 'rifa321.com',
+            cType: 'managed',
+            cNounce: '73897',
+            cRay: '78ff86efeaa40e36',
+            cHash: '25a2810e3a42209',
+            cUPMDTk: "\/favicon.ico?__cf_chl_tk=Yjwob6iZdrICk8CnaRD9f_pEVAFmM9jxCrt6.DoUHNk-1674801943-0-gaNycGzNCH0",
+            cFPWv: 'g',
+            cTTimeMs: '1000',
+            cMTimeMs: '0',
+            cTplV: 4,
+            cTplB: 'cf',
+            cRq: {
+                ru: 'aHR0cHM6Ly9yaWZhMzIxLmNvbS9mYXZpY29uLmljbw==',
+                ra: 'Tk9fVUE=',
+                rm: 'R0VU',
+                d: 'rjNwlDoT8yVG8G9m5jbqRhynneDhQENdBTCcl4Gm31h34FL5dqPaCDDOhq97BY9dDJiZjMhF/bfl0EB8Uy+PecppYB8BT9xCPztY2zqIyByp//6wXOsLc/pjAXOfpGLXK1OUFdrQaODLhxYs5wRSTQldkTbfKbevlKIIk4AD292lgbgkXD5k/KM7Z8tfgt7XL5ZvVyKfCfB+cP9e8pBAX2SkfAoJI55jZ13yRJA/4BQbGQjn1mZuDhamTLtdh0twRsx/QkgZVo21cr9d26SBkOk2g+ur2/5yvM9RopSsoR2Y0fuP9PEedVQlFMZP+BCEYBwqs8P8g7vOJ/mxJ2VO6fnc/qiqDmn28CFMoiXVNmuiw269d+pRG+lOuUvqkcFyS75tApBWs0XnYBjsODwbAx7K+JCi3tWSsdK9Np0OfAECmis2wftvDCNxi2a3rN/YJC/dgX0l5FEPtsqJrsrCruon9Fwc8UGt5L8rB9xrDQ4WHiKO4TzNBCURg60MgOa0JgAcThJCxTJOADiOsvD8AGw2Ar5iZZQcawfXUrU0ZYXIvEyDrMrSDs8gVunK0uK5faxyNUSuR3DCyKCFMMsOGhfiYQGSFVsw2ssoZYSWjZw6poSn2N+v1QIu35CVsNv6XLUQ1g1oLDvCk5zuKqZcauHutFQZLDWu9I0eYwtTqeU=',
+                t: 'MTY3NDgwMTk0My4wMjYwMDA=',
+                m: 'EmrHgadmQ5GWDbbv33O2GFzMe+R9BP9Tb2I0Ql5oz20=',
+                i1: 'GwfofFp2JbYOVlb+xuOKqA==',
+                i2: 'kzgXidzC0f0PO/QAhx0BNA==',
+                zh: 'GGkvjJvztcTN0B2qT+Hm+Ed9EJr2bFuuSOXKL3MtT4s=',
+                uh: 'DV4j3Tmrbi5Rs1q3ahwVS6SgbPbI7np5884QO1u1Cgg=',
+                hh: 'C8pWp6nrwuPiRiqnvfMemUBPVRUlrvoxXaf7otxf2WY=',
+            }
+        };
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=78ff86efeaa40e36');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=78ff86efeaa40e36';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/favicon.ico?__cf_chl_rt_tk=Yjwob6iZdrICk8CnaRD9f_pEVAFmM9jxCrt6.DoUHNk-1674801943-0-gaNycGzNCH0" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>78ff86efeaa40e36</code></div>
+            </div>
+            <div class="text-center" id="footer-text">Performance &amp; security by <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a></div>
+        </div>
+    </div>
+</body>
+</html>
